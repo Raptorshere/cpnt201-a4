@@ -2,6 +2,7 @@
 ## Kevin Fula
 
 # Vite Page
+# *npm run dev*
 http://localhost:5173/
 ## Attributions:
 Much help from the documentation from class- 
